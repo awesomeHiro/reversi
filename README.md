@@ -2,6 +2,13 @@
 
 imported from https://github.com/m-mitsuhide/nuxt-ts-starter
 
+
+## Home work status
+ - [x] Day1
+ - [x] Day2
+ - [x] Day3
+
+
 ## Build Setup
 
 ``` bash
