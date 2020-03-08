@@ -6,6 +6,7 @@ imported from https://github.com/m-mitsuhide/nuxt-ts-starter
 ## Visual Blueprint
 https://www.figma.com/file/Yn2muTd2riUxDZY53R1AaN/Untitled?node-id=0%3A1
 
+![visual-blueprint](https://i.ibb.co/xYkXhJ0/visual-blueprint.jpg)
 ## Home work status
  - [x] Day1
  - [x] Day2
